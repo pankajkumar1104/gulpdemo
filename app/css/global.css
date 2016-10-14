@@ -1,0 +1,19 @@
+.bb1 {
+  border-bottom: 1px solid black;
+}
+
+.pb10 {
+  padding-bottom: 10px;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.mb20 {
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #eeeeee;
+}
